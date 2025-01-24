@@ -2,7 +2,7 @@
 <h1 align="center">Hey welcome to my profile 💖</h1>
 <h3 align="center">Passionate Web Developer|Clean Code|Web Solutions|Beautiful Design</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-al-mahmud&label=Profile%20views&color=0e75b6&style=flat" alt="dev-al-mahmud" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=dev-al-mahmud&label=Profile%20views&color=0e75b6&style=flat" alt="dev-al-mahmud](https://komarev.com/ghpvc/?username=dev-al-mahmud&label=Profile%20views&color=0e75b6&style=flat" alt="dev-al-mahmud)" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-al-mahmud" alt="dev-al-mahmud" /></a> </p>
 

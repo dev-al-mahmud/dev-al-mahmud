@@ -1,30 +1,47 @@
 <img src="https://media.licdn.com/dms/image/v2/D5616AQEDVokDXxnc6A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732731174082?e=1743033600&v=beta&t=ZCkmqMnqYl3fPao-_MtQHQXtUvU7DdhTWrAxZwgx4Ok">
-<h1 align="center">Hey welcome to my profile 💖</h1>
+<h1 align="center">👋Hey Welcome To Dev-Al-Mahmud Developer's World💖</h1>
+<h3 align="center">A Passionate Passionate Web Developer|Clean Code|Web Solutions|Beautiful Design</h3>
 
-<h3 align="center">Passionate Web Developer|Clean Code|Web Solutions|Beautiful Design</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-al-mahmud&label=Profile%20views&color=0e75b6&style=flat" alt="dev-al-mahmud" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-al-mahmud" alt="dev-al-mahmud" /></a> </p>
 
-- 🔭 I’m currently working on [Fiverr](https://github.com/dev-al-mahmud)
+- 🔭 I’m currently working on [Fiverr](https://shorturl.at/N7nJh)
 
 - 🌱 I’m currently learning **Javascripet|PHP|MySQL|Wordpress**
 
-- 👯 I’m looking to collaborate on [Freelancer](https://github.com/dev-al-mahmud)
+- 👯 I’m looking to collaborate on [Freelancer](https://shorturl.at/u3fCG)
 
-- 🤝 I’m looking for help with [Web Design & Development](https://github.com/dev-al-mahmud)
+- 🤝 I’m looking for help with [Web Design & Development](https://shorturl.at/MDgx2)
 
 - 👨‍💻 All of my projects are available at [https://github.com/dev-al-mahmud](https://github.com/dev-al-mahmud)
 
 - 📝 I regularly write articles on [https://github.com/dev-al-mahmud](https://github.com/dev-al-mahmud)
 
+- 💬 Ask me about **Web Design & Development**
+
 - 📫 How to reach me **freelancermahmud19@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/dev-al-mahmud](https://github.com/dev-al-mahmud)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sUUp6E0lAFULAqzle4u--iML2S68KroQ/view?usp=sharing)
 
-- ⚡ Fun fact **"Can You Just Add This Little Feature?"**
+- ⚡ Fun fact: The Client's Surprise – After explaining the complexity, the client still says, "But I thought it was easy?"😎
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="#" height="30" width="40" /></a>
+<a href="https://dev.to/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="#" height="30" width="40" /></a>
+<a href="https://twitter.com//MahmudAl65520" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="#" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdul-al-mahmud-8a8b16293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul-al-mahmud-8a8b16293" height="30" width="40" /></a>
+<a href="https://codesandbox.com/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="#" height="30" width="40" /></a>
+<a href="https://fb.com/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="#" height="30" width="40" /></a>
+<a href="https://instagram.com/md.mahmud6329" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="#" height="30" width="40" /></a>
+<a href="https://dribbble.com/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="#" height="30" width="40" /></a>
+<a href="https://www.behance.net/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="#" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="#" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="#" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="#" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="#" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="#" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

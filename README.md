@@ -1,5 +1,5 @@
 <img src="https://media.licdn.com/dms/image/v2/D5616AQEDVokDXxnc6A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732731174082?e=1753315200&v=beta&t=G-6vZkzErIjpLYlHiOJyItpAA7zNVaL6hgl1cx6vDlg">
-<h1 align="center">👋Hey Welcome To Dev-Al-Mahmud Developer's World💖</h1>
+<h1 align="center"> Hey Welcome To Dev-Al-Mahmud Developer's World </h1>
 <h3 align="center">A Passionate Passionate Web Developer|Clean Code|Web Solutions|Beautiful Design</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-al-mahmud&label=Profile%20views&color=0e75b6&style=flat" alt="dev-al-mahmud" /> </p>

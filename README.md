@@ -1,4 +1,6 @@
-< img sre = "https://www.linkedin.com/in/abdul-al-mahmud/overlay/background-photo/" >
+<p align="center">
+  <img src="[images/cover.png](https://www.linkedin.com/in/abdul-al-mahmud/overlay/background-photo/)" alt="Abdul Al Mahmud Banner" width="100%">
+</p>
 <h1 align="center"> Hey Welcome To Dev-Al-Mahmud Developer's World </h1>
 <h3 align="center">A Passionate Passionate Web Developer|Clean Code|Web Solutions|Beautiful Design</h3>
 
